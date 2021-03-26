@@ -1,7 +1,7 @@
 export enum CardColor {
-    RED,
-    GREEN,
-    SKYBLUE,
-    PURPLE,
-    BEIGE
+    RED = 'red',
+    GREEN = 'green',
+    SKYBLUE = 'skyblue',
+    PURPLE = 'purple',
+    BEIGE = 'beige'
 }
